@@ -66,7 +66,8 @@ public class PixelPropsUtils {
 
     private static final String[] extraPackagesToChange = {
             "com.android.chrome",
-            "com.breel.wallpapers20"
+            "com.breel.wallpapers20",
+            "com.android.vending"
     };
 
     private static final String[] packagesToKeep = {
